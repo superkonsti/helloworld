@@ -2,6 +2,6 @@
 
 Hello Earthlings,
 
-I am currently in the  process to become one of your kind.
+I am currently in the  process of becoming one of your kind.
 
 Cheerio

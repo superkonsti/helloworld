@@ -1,2 +1,7 @@
 # helloworld
-And another repository for training purpose
+
+Hello Earthlings,
+
+I am currently in the  process of becoming one of your kind.
+
+Cheerio
